@@ -1,3 +1,4 @@
 # Python-Projects
+Repository with Projects developed in Python.
 
-En este repositorio estaré subiendo los Proyectos desarrollados en Python.
+Repositorio con Proyectos desarrollados en Python.
